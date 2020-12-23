@@ -20,7 +20,7 @@ public class Point {
 		if(p.y > y) { dy = p.y - y;
 		} else { dy = y - p.y; }
 		
-		return 0;
+		return (float) Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
 	}
 
 }
