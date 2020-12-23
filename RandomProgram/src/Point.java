@@ -13,4 +13,7 @@ public class Point {
 		return (x + ", " + y);
 	}
 
+	public void metodonulla() {
+		
+	}
 }
