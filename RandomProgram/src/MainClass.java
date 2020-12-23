@@ -14,7 +14,7 @@ public class MainClass {
 	
 	public static void getInfo() {
 		System.out.println("Point 1: " + p1.toString());
-		System.out.println("Nice, it actually changes!");
+		System.out.println("Those were all the points, have a great day!");
 	}
 
 }
