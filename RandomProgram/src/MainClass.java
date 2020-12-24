@@ -6,6 +6,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		initialize();
 		getInfo();
+		prova.boh();
 	}
 	
 	public static void initialize() {
